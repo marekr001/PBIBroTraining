@@ -1,0 +1,5 @@
+relationship 6d49a968-2ef8-4624-954e-0f3a0f1866f8
+	joinOnDateBehavior: datePartOnly
+	fromColumn: AMZN.Date
+	toColumn: LocalDateTable_1992af7c-31a0-4345-abd7-318321fbd667.Date
+
